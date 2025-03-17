@@ -2,7 +2,7 @@
 setlocal EnableDelayedExpansion
 
 :: Number of instances to open
-set instances=5
+set instances=10
 
 :: Loop indefinitely
 :loop
